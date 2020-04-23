@@ -1,8 +1,8 @@
 * text eol=lf
 # *.jpg -text
 # *.png -text
-# *.gif -text
 
+*.gif binary
 *.png binary
 *.jpg binary
 *.jpeg binary
