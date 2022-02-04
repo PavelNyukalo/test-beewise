@@ -5,7 +5,7 @@
 
 Браузерная поддержка - Google Chrome, Mozilla Firefox, IE 11
 
-[Ссылка на проект](https://pavelnyukalo.github.io/test-beewise/)
+[Ссылка на проект](https://pavel-nyukalo.github.io/test-beewise/)
 
 ## Используемые технологии
 * HTML
